@@ -2,6 +2,9 @@
 
 > Heredoc helpers for ES2015 template strings
 
+[![Build Status](https://travis-ci.org/cowboy/node-heredoc-tag.svg?branch=master)](https://travis-ci.org/cowboy/node-heredoc-tag)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 ## Installation
 
 ```
